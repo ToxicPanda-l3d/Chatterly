@@ -1,6 +1,6 @@
 # Chatterly Application
 
-![Chat Application]
+## [Chat Application]
 
 ## Introduction
 
